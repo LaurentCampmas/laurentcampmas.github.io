@@ -125,7 +125,7 @@ section {
     margin-top: 10px;
     border-top: 1px solid rgba(0,0,0,0.05);
 }
-.lc-about  ul.contact i {
+.lc-about  ul.contact span {
     margin-right: 8px;
     color: #777;
 }
